@@ -16,7 +16,7 @@ Good luck, valiant coder. May the codes be with you.
 
 # What You're Creating To Survive
 
-![Zombies breaching the last city](https://th.bing.com/th/id/OIG.n4w7waXAZnP3Ge8dFEOy?pid=ImgGn)
+![Carousel](carousel-javascript-challenge/assets/carousel.jpg)
 
 # Setup
 
@@ -56,7 +56,7 @@ With a deep breath and a prayer to the coding gods, Alex initiated the final seq
 
 As the city held its collective breath, the carousel of code surged to life, its luminous tendrils intertwining with the gate's machinery, a beacon of hope in the encroaching darkness.
 
-![Zombies breaching the last city](https://th.bing.com/th/id/OIG.n4w7waXAZnP3Ge8dFEOy?pid=ImgGn)
+![Zombies breaching the last city](carousel-javascript-challenge/assets/breaching.jpg)
 
 Epilogue:
 
