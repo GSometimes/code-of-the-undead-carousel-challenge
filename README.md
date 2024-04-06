@@ -16,7 +16,7 @@ Good luck, valiant coder. May the codes be with you.
 
 # What You're Creating To Survive
 
-![Carousel](carousel-javascript-challenge/assets/carousel.jpg)
+![Carousel](carousel-javascript-challenge/assets/carousel-demo.gif)
 
 # Setup
 
